@@ -4,5 +4,5 @@
 - 👀 Progamador em Python e JavaScript
 - 🌱 Cursando:. Técnico em informática 0/2y
 - 💞️ Futuro Engenheiro da computação 
-- 😎 </Desenvolvedor>
-
+- 😎 Desenvolvedor
+- 🐥 Twitter: <a href="#">teste</a>
