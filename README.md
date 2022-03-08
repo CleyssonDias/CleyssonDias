@@ -1,30 +1,63 @@
-<h1>Olá, Meu nome é Cleysson 🖐️🤓</h1>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: monospace;
+        }
+        .tilte {
+            color: #7165c1;
+        }
+        .subtitle {
+            font-size: 17px;
+            margin-bottom: 20px;
+        }
+        .techs {
+            display: flex;
+            align-items: center;
+            margin-bottom: 20px;
+        }
+        .tech {
+            margin-right: 10px;
+            width: 30px;
+        }
+        .tech img {
+            width: 100%;
+        }
+        .color {
+            color:#7165c1;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <h1 class="tilte">Hello Dev👋😁</h1>
+    <p class="subtitle">I am a <span class="color">FullStack ☕</span>  Developer and
+        in love 🥰 with <span class="color">BackEnd 🚽</span></p>
 
+   
+    <p class="footer">"Think Different" - <span class="color">Steve Jobs</span> </p>
 
-<div align="center">
-  <a href="https://github.com/CleyssonDias">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+    <div class="techs">
+        <div class="tech">
+           <img src="./assets/javascript.png" alt="JS">
+        </div>
+        <div class="tech">
+            <img src="./assets/typescript.png" alt="Type">
+        </div>
+        <div class="tech">
+            <img src="./assets/mongodb.png" alt="mongodb">
+        </div>
+        <div class="tech">
+            <img src="./assets/prisma.png" alt="prisma">
+        </div>
+        <div class="tech">
+            <img src="./assets/express.png" alt="express">
+        </div>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
- 
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  
-  
-</div>
-  
-  ##
- 
-<div> 
-  <a 
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
- <a href="https://discord.gg/pDbY76q8Qf" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
- 
-  ![Snake animation](https://github.com/CleyssonDias/CleyssonDias/blob/output/github-contribution-grid-snake.svg)
+    </div>
+</body>
+</html>
