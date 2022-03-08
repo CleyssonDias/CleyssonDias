@@ -1,3 +1,8 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+</head>
 <body style="font-family: monospace;">
     <h1 class="tilte" style="color: #7165c1;">Hello Dev👋😁</h1>
     <p class="subtitle" style="font-size: 17px;margin-bottom: 20px;">I am a <span style="color:#7165c1;
@@ -35,3 +40,4 @@
 
     </div>
 </body>
+</html>
