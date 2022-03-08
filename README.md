@@ -14,27 +14,20 @@
 <p class="footer">"Think Different" - <span style="color:#7165c1;
     font-weight: bold;">Steve Jobs</span> </p>
 
-<div class="techs" style="display: flex;
-align-items: center;
-margin-bottom: 20px;">
-<div class="tech" style="margin-right: 10px;
-width: 30px;">
+<div class="techs" style="display: flex;align-items: center;margin-bottom: 20px;">
+<div class="tech" style="margin-right: 10px;width: 30px;">
    <img style="width: 100%;" src="./javascript.png" alt="JS">
 </div>
-<div class="tech" style="margin-right: 10px;
-width: 30px;">
+<div class="tech" style="margin-right: 10px;width: 30px;">
     <img style="width: 100%;" src="./typescript.png" alt="Type">
 </div>
-<div class="tech" style="margin-right: 10px;
-width: 30px;">
+<div class="tech" style="margin-right: 10px;width: 30px;">
     <img style="width: 100%;" src="./mongodb.png" alt="mongodb">
 </div>
-<div class="tech" style="margin-right: 10px;
-width: 30px;">
+<div class="tech" style="margin-right: 10px;width: 30px;">
     <img style="width: 100%;" src="./prisma.png" alt="prisma">
 </div>
-<div class="tech" style="margin-right: 10px;
-width: 30px;">
+<div class="tech" style="margin-right: 10px;width: 30px;">
     <img style="width: 100%;" src="./express.png" alt="express">
 </div>
 
