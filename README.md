@@ -19,23 +19,23 @@ align-items: center;
 margin-bottom: 20px;">
 <div class="tech" style="margin-right: 10px;
 width: 30px;">
-   <img style="width: 100%;" src="./assets/javascript.png" alt="JS">
+   <img style="width: 100%;" src="./javascript.png" alt="JS">
 </div>
 <div class="tech" style="margin-right: 10px;
 width: 30px;">
-    <img style="width: 100%;" src="./assets/typescript.png" alt="Type">
+    <img style="width: 100%;" src="./typescript.png" alt="Type">
 </div>
 <div class="tech" style="margin-right: 10px;
 width: 30px;">
-    <img style="width: 100%;" src="./assets/mongodb.png" alt="mongodb">
+    <img style="width: 100%;" src="./mongodb.png" alt="mongodb">
 </div>
 <div class="tech" style="margin-right: 10px;
 width: 30px;">
-    <img style="width: 100%;" src="./assets/prisma.png" alt="prisma">
+    <img style="width: 100%;" src="./prisma.png" alt="prisma">
 </div>
 <div class="tech" style="margin-right: 10px;
 width: 30px;">
-    <img style="width: 100%;" src="./assets/express.png" alt="express">
+    <img style="width: 100%;" src="./express.png" alt="express">
 </div>
 
 </div>
