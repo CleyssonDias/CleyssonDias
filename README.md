@@ -1,5 +1,5 @@
 # Cleysson Dias🖖🤠
-👋 Olá! Sou desenvolvedor Full Stack apaixonado por criar soluções práticas, eficientes e com design moderno e eficiente.
+👋 Olá! Sou desenvolvedor Full Stack apaixonado por criar soluções práticas, eficientes e com design moderno.
 
 <p align="start">
   <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=red"/></a>
