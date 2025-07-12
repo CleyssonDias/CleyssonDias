@@ -1,2 +1,81 @@
-**### Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="25px" data-canonical-src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" style="max-width:100%;">😎 *I am a FullStack ☕ Developer and in love 🥰 with BackEnd 🚽* **"Think Different" - Steve Jobs** <div style="display: inline_block"><br> <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg"> <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg"> <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg"> </div>
-**
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=140&section=header&text=Cleysson%20Dias&fontSize=48&fontColor=58a6ff&animation=twinkling&fontAlignY=40" />
+</p>
+
+<h3 align="center" style="color:#58a6ff;">
+  Desenvolvedor Full Stack & Designer Visual — Criatividade e Tecnologia em Alta Performance
+</h3>
+
+---
+
+## ✨ Sobre mim
+
+<div align="center">
+
+Sou apaixonado por criar soluções que unem **design arrojado** com **código limpo** e **alta performance**.
+
+- 🔥 Full Stack Developer com foco em React, Node.js e Python  
+- 🎨 Design minimalista, moderno e funcional  
+- 🌌 Dark mode lover, com toque futurista e animações suaves  
+- 🚀 Entrego projetos com qualidade e impacto visual
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,python,flask,mysql,postgres,tailwind,css,html,js,ts,git,github,vscode,figma" />
+</p>
+
+---
+
+## 💼 Projetos em Destaque
+
+<div align="center" style="display:flex; justify-content:center; gap:24px; flex-wrap: wrap;">
+
+<div style="background:#0d1117; border-radius:12px; padding:16px; width:280px; box-shadow: 0 0 10px #58a6ff66;">
+  <h4 style="color:#58a6ff;">Projeto 1 - Controle Estoque</h4>
+  <p>Sistema moderno para gerenciamento de estoque interno com interface dark e responsiva.</p>
+  <a href="https://github.com/CleyssonDias/controle-estoque" target="_blank" style="color:#58a6ff;">Ver no GitHub</a>
+</div>
+
+<div style="background:#0d1117; border-radius:12px; padding:16px; width:280px; box-shadow: 0 0 10px #58a6ff66;">
+  <h4 style="color:#58a6ff;">Projeto 2 - Dashboard Logística</h4>
+  <p>Dashboard intuitivo para monitoramento em tempo real da logística da empresa.</p>
+  <a href="https://github.com/CleyssonDias/dashboard-logistica" target="_blank" style="color:#58a6ff;">Ver no GitHub</a>
+</div>
+
+<div style="background:#0d1117; border-radius:12px; padding:16px; width:280px; box-shadow: 0 0 10px #58a6ff66;">
+  <h4 style="color:#58a6ff;">Projeto 3 - App de Produtividade</h4>
+  <p>Aplicativo focado em maximizar a produtividade pessoal com design clean.</p>
+  <a href="https://github.com/CleyssonDias/app-produtividade" target="_blank" style="color:#58a6ff;">Ver no GitHub</a>
+</div>
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=radical&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=radical&hide_border=true&title_color=58a6ff" />
+</p>
+
+---
+
+## 📫 Contato
+
+<p align="center">
+  <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=red"/></a>
+  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
+  <a href="https://seusite.com"><img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=CleyssonDias&color=58a6ff&style=flat-square" />
+</p>
