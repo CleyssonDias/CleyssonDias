@@ -1,78 +1,41 @@
-
-<h1 align="center">Olá! Eu sou o Cleysson Dias👋</h1>
-
+<!-- Banner animado no topo -->
 <p align="center">
-  <em>Desenvolvedor Full Stack | Criador de soluções digitais | Foco em apps com propósito</em>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Cleysson%20Dias&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" />
 </p>
+
+<h3 align="center">🚀 Desenvolvedor Full Stack | ✝️ Projetos com Propósito | 🧠 Foco em Eficiência e Inovação</h3>
 
 ---
 
-### 🚀 Sobre mim
+### ✨ Sobre mim
 
-- 💻 Desenvolvedor full stack com foco em eficiência, propósito e impacto real
-- ⚙️ Crio sistemas web e aplicativos que facilitam a vida de pessoas e empresas
-- ✝️ Apaixonado por projetos que unem fé, educação e tecnologia
-- 🔄 Em constante evolução: sempre buscando inovação com propósito
+```yaml
+Nome: Cleysson Dias
+Localização: Brasil
+Especialidade: Full Stack Developer
+Propósito: Criar soluções que simplificam, organizam e edificam
+Sou um desenvolvedor apaixonado por tecnologia com propósito. Crio sistemas, apps e ferramentas que ajudam pessoas a se organizarem melhor, empresas a operarem com mais eficiência, e comunidades a se desenvolverem com base em valores sólidos.
 
-### 🛠️ Tecnologias & Ferramentas
+💼 Fundador de projetos com foco em produtividade e disciplina
 
-#### 🌐 Front-end
-<p>
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"/>
-</p>
+📱 Especialista em apps internos e controle de estoque/logística
 
-#### ⚙️ Back-end
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-</p>
+✝️ Ativo em iniciativas cristãs com impacto educacional
 
-#### 🛢️ Banco de Dados
-<p>
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black"/>
-</p>
+🧠 Sempre aprendendo, testando e aplicando novas tecnologias
 
-#### 🔧 Ferramentas & Extras
-<p>
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
-</p>
-
----
-
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
----
-
-### 📫 Onde me encontrar
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-usuario)
-- 📧 cleysson@email.com
-- 🌐 Em breve: www.seusite.com
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CleyssonDias&color=blueviolet&style=flat-square" />
-</p>
+🛠️ Tecnologias e Ferramentas
+<div align="center">
+🌐 Front-end
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,vue" />
+⚙️ Back-end
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
+🗄️ Banco de Dados
+<img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,sqlite" />
+🧰 Ferramentas & DevOps
+<img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma" /> </div>
+📈 Estatísticas
+<div align="center"> <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=github_dark&hide_border=true&count_private=true" /> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=github_dark&hide_border=true" /> </div>
+📫 Conecte-se comigo
+<p align="center"> <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/-cleysson@email.com-0d1117?style=flat&logo=gmail&logoColor=EA4335&color=0d1117" /></a> <a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=flat&logo=linkedin&logoColor=0A66C2&color=0d1117" /></a> <a href="https://www.seusite.com"><img src="https://img.shields.io/badge/-Portfólio-0d1117?style=flat&logo=google-chrome&logoColor=white&color=0d1117" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=CleyssonDias&style=flat-square&color=58a6ff" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=100&section=footer"/> </p> ```
