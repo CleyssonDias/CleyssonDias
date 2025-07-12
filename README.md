@@ -1,61 +1,69 @@
-<!-- Cabeçalho com visual moderno -->
+<!-- BANNER ANIMADO TOPO -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=800&height=80&lines=Olá%2C+me+chamo+Cleysson+Dias!;Desenvolvedor+Full+Stack+com+propósito.;Apps%2C+sistemas+e+soluções+que+fazem+a+diferança." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Cleysson+Dias!;Full+Stack+Developer+com+propósito.;Criando+soluções+digitais+que+impactam." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=header"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Cleysson%20Dias&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" />
 </p>
 
 ---
 
 ### ✨ Sobre mim
 
-<p align="center">
-  Criador de soluções que organizam, constroem e inspiram. <br/>
-  Meu foco é desenvolver sistemas inteligentes, apps funcionais e projetos com alma. <br/>
-  Apaixonado por transformar ideias em ferramentas úteis e funcionais.
-</p>
-
-<div align="center">
-  
-💼 Fundador de soluções digitais internas para logística e produtividade  
-🧠 Estudo contínuo de boas práticas, design funcional e automação  
-✝️ Projetos com fundamentos cristãos e impacto real  
-  
-</div>
+> 💡 Criador de ideias que viram sistemas  
+> ✝️ Cristão, criativo e focado em impacto  
+> 🚚 Soluções internas para logística, triagem e controle de estoque  
+> 🔁 Amante da automação, produtividade e interfaces inteligentes  
+> 🔥 Sempre com um projeto novo nas mãos!
 
 ---
 
-### 🛠️ Stack e Ferramentas
+### 🛠️ Minhas Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass" />
   <br/>
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,sqlite" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,figma,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma,linux" />
 </p>
 
 ---
 
-### 📊 Meus números
+### 🧠 Em constante evolução
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=transparent&hide_border=true&icon_color=58a6ff&title_color=58a6ff&text_color=c9d1d9" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=transparent&hide_border=true&title_color=58a6ff&text_color=c9d1d9" height="160" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CleyssonDias&theme=algolia&row=1&column=7&margin-w=10&no-frame=true"/>
 </p>
 
 ---
 
-### 📫 Vamos nos conectar?
+### ⚙️ GitHub Stats (ao vivo)
 
 <p align="center">
-  <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/E--mail-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117&color=0d1117"/></a>
-  <a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1117"/></a>
-  <a href="https://www.seusite.com"><img src="https://img.shields.io/badge/Portfólio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&labelColor=0d1117"/></a>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff" />
+</p>
+
+---
+
+### 🐍 Snake Game (seu GitHub ganhando vida)
+
+<p align="center">
+  <img src="https://github.com/CleyssonDias/CleyssonDias/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+### 📫 Onde me encontrar
+
+<p align="center">
+  <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
+  <a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+  <a href="https://www.seusite.com"><img src="https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---
@@ -65,5 +73,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&height=80&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
