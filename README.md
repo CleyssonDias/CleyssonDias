@@ -1,77 +1,78 @@
-<!-- BANNER ANIMADO TOPO -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Olá%2C+eu+sou+o+Cleysson+Dias!;Full+Stack+Developer+com+propósito.;Criando+soluções+digitais+que+impactam." alt="Typing SVG" />
-</p>
+<!-- HEADER com animação -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hey%2C+eu+sou+Cleysson+Dias!;Criativo%2C+moderno+e+Full+Stack.;+Design+%2B+Código+%2B+Inovação.">
+</h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Cleysson%20Dias&fontSize=40&fontColor=58a6ff&animation=fadeIn&fontAlignY=35" />
-</p>
-
----
-
-### ✨ Sobre mim
-
-> 💡 Criador de ideias que viram sistemas  
-> ✝️ Cristão, criativo e focado em impacto  
-> 🚚 Soluções internas para logística, triagem e controle de estoque  
-> 🔁 Amante da automação, produtividade e interfaces inteligentes  
-> 🔥 Sempre com um projeto novo nas mãos!
-
----
-
-### 🛠️ Minhas Skills
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,flask,php" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,firebase,mongodb,sqlite" />
-  <br/>
-  <img src="https://skillicons.dev/icons?i=git,github,vercel,postman,vscode,figma,linux" />
+  <img src="https://user-images.githubusercontent.com/91544872/205511167-6cd74d6b-df70-4dd0-a803-4bbf1c78b6d1.gif" width="100%" />
 </p>
 
 ---
 
-### 🧠 Em constante evolução
+<!-- SOBRE MIM COM ESTILO -->
+<h2 align="center">🎨 Sobre Mim</h2>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/hqU2KkjW5bE2v2Z7Q2/giphy.gif" width="150px"/>
+</div>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CleyssonDias&theme=algolia&row=1&column=7&margin-w=10&no-frame=true"/>
+  Desenvolvedor <strong>Full Stack</strong> com paixão por <em>design bonito</em>, <em>interfaces criativas</em> e <em>código limpo</em>.<br>
+  Crio sistemas com visual impactante e performance inteligente.<br><br>
+  🔭 Criando experiências visuais impressionantes<br>
+  ⚡ Aficionado por automações e design responsivo<br>
+  🎯 Clean, performático, bonito.
 </p>
 
 ---
 
-### ⚙️ GitHub Stats (ao vivo)
+<h2 align="center">🚀 Tecnologias que uso</h2>
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=tokyonight&hide_border=true&icon_color=58a6ff&title_color=58a6ff" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=tokyonight&hide_border=true&title_color=58a6ff" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind,sass" /><br><br>
+  <img src="https://skillicons.dev/icons?i=nodejs,python,flask,php,express,mongodb,firebase,mysql" /><br><br>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,postman,linux" />
 </p>
 
 ---
 
-### 🐍 Snake Game (seu GitHub ganhando vida)
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CleyssonDias&show_icons=true&theme=radical&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleyssonDias&layout=compact&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+<h2 align="center">🏆 Trophies</h2>
 
 <p align="center">
-  <img src="https://github.com/CleyssonDias/CleyssonDias/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github-profile-trophy.vercel.app/?username=CleyssonDias&theme=darkhub&no-frame=true&margin-w=10" />
 </p>
 
 ---
 
-### 📫 Onde me encontrar
+<h2 align="center">🐍 Snake Game</h2>
 
 <p align="center">
-  <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/-Email-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335" /></a>
-  <a href="https://www.linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
-  <a href="https://www.seusite.com"><img src="https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <img src="https://github.com/CleyssonDias/CleyssonDias/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
+<h2 align="center">🌎 Vamos nos conectar?</h2>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=CleyssonDias&color=58a6ff&style=flat-square" />
+  <a href="mailto:cleysson@email.com"><img src="https://img.shields.io/badge/-cleysson@email.com-0d1117?style=for-the-badge&logo=gmail&logoColor=white&color=red"/></a>
+  <a href="https://linkedin.com/in/seu-usuario"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/></a>
+  <a href="https://seusite.com"><img src="https://img.shields.io/badge/-Portfólio-0d1117?style=for-the-badge&logo=google-chrome&logoColor=white&color=cyan"/></a>
 </p>
+
+---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=120&section=footer"/>
 </p>
+
